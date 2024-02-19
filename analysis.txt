@@ -1,0 +1,26 @@
+#Start/End Locations Dashboard 
+
+**Spatial Distribution:** The Start/End Locations Dashboard effectively visualizes the spatial distribution of Citi Bike usage within New York City official map. The cluster of Citi Bikes on the left side of the water source at the beginning suggests a concentration of bike activity in a particular area, possibly indicating popular starting points or densely populated neighborhoods where bike sharing is frequently utilized.
+
+**End Point Dispersal:** The observation that Citi Bikes are scattered across more stops and even expanded across the water source at the end of the journey indicates a broader dispersion pattern. This could suggest that riders are using Citi Bikes for longer trips or that there is a network effect where riders are using bikes to travel between different areas of the city, including across bodies of water.
+
+**Infrastructure and Accessibility:** The expansion of Citi Bike usage across the water source might also highlight the importance of bike-friendly infrastructure such as bridges or ferry terminals, indicating that riders are utilizing these resources to traverse the city more efficiently.
+
+Overall, your Start/End Locations Dashboard provides a visual representation of Citi Bike usage patterns, offering insights into spatial dynamics, usage trends, and implications for urban planning in New York City. Further analysis could delve deeper into specific time periods, demographic trends, or correlations with other urban variables to uncover more nuanced insights.
+
+
+#Trip Information Dashboard
+
+**Consistency in Start and End Locations:** The minor changes observed in the Citi Bike trip analysis between 2022 and 2023 reveal a remarkable consistency in the start and end locations of bike trips. This consistency suggests that certain areas remain popular starting and ending points for Citi Bike users over time, indicating stable patterns of mobility or demand in those areas.
+
+**Overall Trip Count:** While the overall trip count slightly decreased from 2022 to 2023 (103,000 vs 97,000 trips), the difference is relatively marginal. This suggests that despite minor fluctuations, Citi Bike remains a consistently utilized mode of transportation within the city.
+
+**Changes in Bike Type Usage:** The most notable difference between the two years lies in the types of bikes being used. In 2023, there was a significant increase in the utilization of classic bikes compared to 2022 (82,000 vs 63,000 trips). This shift could indicate various factors such as changes in user preferences, availability of bike types, or adjustments in pricing or promotional strategies.
+
+**Docked Bike Usage:** It's interesting to note that both in 2022 and 2023, docked bikes were utilized by relatively few users. This could suggest that dockless bikes or other modes of transportation are more preferred or accessible to Citi Bike users, potentially reflecting the convenience and flexibility offered by dockless options.
+
+**Electric Bike Usage:** Another notable trend is the decrease in electric bike usage from 2022 to 2023 (38,000 vs 13,000 trips). This decline could be attributed to various factors such as changes in the availability of electric bikes, modifications in pricing or operational policies, or shifts in user preferences towards other bike types.
+
+In summary, your Trip Information Dashboard provides a nuanced understanding of Citi Bike usage patterns, highlighting trends in trip counts and bike type utilization between 2022 and 2023. Further analysis could explore the underlying factors driving these changes and their implications for service management and urban mobility planning.
+
+
